@@ -1,0 +1,10 @@
+{
+  "name": "claude-code-book",
+  "image": "mcr.microsoft.com/devcontainers/base:bookworm",
+  "workspaceFolder": "/workspaces/claude-code-book",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "lts"
+    }
+  }
+}
