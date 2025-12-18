@@ -6,6 +6,14 @@
 
 <img src="assets/cover.jpg" width="50%" />
 
+## インストールガイド
+
+ハンズオンを始める前に、以下のツールをインストールしてください。
+
+- [Visual Studio Code](docs/install-vscode.md)
+- [Docker](docs/install-docker.md)
+- [Dev Containers拡張機能](docs/install-devcontainer.md)
+
 ## ハンズオンで使用するGitHubリポジトリ
 
 本書のハンズオンで使用するGitHubリポジトリは、以下の2つです。
