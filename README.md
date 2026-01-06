@@ -18,7 +18,8 @@
 
 本書のハンズオンで使用するGitHubリポジトリは、以下の2つです。
 
-- 第1部のハンズオン：<https://github.com/GenerativeAgents/claude-code-book-template>
+- 第1部2章のハンズオン：<https://github.com/GenerativeAgents/claude-code-book-template>
+- 第1部4章のハンズオン：<https://github.com/GenerativeAgents/claude-code-book-chapter4>
 - 第2部8章のハンズオン：<https://github.com/GenerativeAgents/claude-code-book-chapter8>
 
 ## 書籍の誤り・エラーについて
