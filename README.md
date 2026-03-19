@@ -42,6 +42,10 @@ Claude Code Actionのリポジトリのアップデートにより、最新の`l
 
 <https://github.com/GenerativeAgents/claude-code-book/issues>
 
+## 正誤表
+
+- [正誤表](./errata.md)
+
 ## リンク
 
 - [技術評論社](https://gihyo.jp/book/2026/978-4-297-15354-0)
