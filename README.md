@@ -50,3 +50,13 @@ Claude Code Actionのリポジトリのアップデートにより、最新の`l
 
 - [技術評論社](https://gihyo.jp/book/2026/978-4-297-15354-0)
 - [Amazon](https://www.amazon.co.jp/dp/4297153548)
+
+## 研修プログラムのご紹介
+
+株式会社ジェネラティブエージェンツでは、本書をベースとした研修プログラムもご提供しています。
+
+<a href="https://generative-agents.co.jp/lp/claude-code">
+  <img src="assets/lp.png" width="100%" />
+</a>
+
+詳細はこちら: <https://generative-agents.co.jp/lp/claude-code>
